@@ -17,7 +17,7 @@ This desktop application is built using Java and NetBeans IDE, designed to facil
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/sujith9604/vaasthunirmaan.git
+   https://github.com/bodadevraj30/VaasthuNirmaan.git
 
    ```
 
